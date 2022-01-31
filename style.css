@@ -1,0 +1,62 @@
+body{
+        font-family: 'Poppins', sans-serif;
+        margin: 0 ;
+    }
+
+.pink-highlighter{
+    color: rgb(197, 51, 255) ;
+}
+.half-width{
+    width: 40% ;
+    float: left ;   
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, pink);
+    color: white;
+    padding: 5px 35px 5px 35px ;
+    border-radius: 5px;
+    font-weight: 700 ;
+    font-size: bigger ;
+}
+h3{
+    font-size: 40px;
+}
+.top-banner{
+    background-image: url("file:///C:/Web%20Development/project/web-portfolio/images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+h1{
+    text-align: center;
+    
+}
+.my-work{
+    width: 20%;
+    float: left;
+    padding-left: 10%;
+}
+.my-work img{
+    width: 100% ;
+}
+.my-work-area{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.small{
+    font-size: smaller ;
+    font-weight: 700;
+}
+.client-say-area{
+    text-align: center;
+}
