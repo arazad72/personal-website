@@ -60,3 +60,17 @@ h1{
 .client-say-area{
     text-align: center;
 }
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, rgb(255, 187, 0));
+    color: white;
+    padding: 5px 35px 5px 35px ;
+    border-radius: 5px;
+    font-weight: 700 ;
+    font-size: bigger ;
+    
+}
+.h-design{
+    font-size: 80px;
+    color:rgb(245, 55, 21)
+}
